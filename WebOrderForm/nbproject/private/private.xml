@@ -5,6 +5,7 @@
         <group>
             <file>file:/D:/learning_java/BookStoreWeb/WebOrderForm/web/WEB-INF/web.xml</file>
             <file>file:/D:/learning_java/BookStoreWeb/WebOrderForm/web/index.jsp</file>
+            <file>file:/D:/learning_java/BookStoreWeb/WebOrderForm/web/WEB-INF/glassfish-web.xml</file>
             <file>file:/D:/learning_java/BookStoreWeb/WebOrderForm/web/WEB-INF/glassfish-resources.xml</file>
         </group>
     </open-files>
