@@ -5,10 +5,11 @@
     Created on : 13.06.2018, 20:19:31
     Author     : KatyaPc
 --%>
-<sql:query var="result" dataSource="jdbc/BookStore">
+ 
+<sql:query var="result" dataSource="jdbc/IFPWAFCAD">
     SELECT author_name FROM Authors
 </sql:query>
-    
+ <%--   
 <table border="1">
     <!-- column headers -->
     <tr>
@@ -25,10 +26,10 @@
     </tr>
 </c:forEach>
 </table>
-    
+--%>    
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html><%--  --%>  
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="style.css">
